@@ -1,0 +1,14 @@
+* {
+    margin: 0%;
+    background-color: rgb(144, 231, 186);
+}
+
+.op {
+    text-align: center;
+    font-size: 250%;
+}
+
+.login {
+    text-align: center;
+    border: 1px solid red;
+}
